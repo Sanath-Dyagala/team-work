@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi this is wahed ali welcome to git hub
+=======
+welcome to citiustech main branch
+>>>>>>> b1a26b08cf9c25b9c2f011d3f21791d43c871ca9
