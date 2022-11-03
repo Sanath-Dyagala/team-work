@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello guys my name is bhargavi
 =======
 hello guys my name is Bhargavi
@@ -8,6 +9,11 @@ hello guys my name is Bhargavi
 =======
 =======
 >>>>>>> refs/remotes/origin/main
+=======
+citiustech
+=======
+<<<<<<< HEAD
+>>>>>>> d4ab890e60002e9b34408d03cc2ea380641652a2
 hi 
 i am sowjanya 
 welcome to citiustech
@@ -24,6 +30,10 @@ welcome to citiustech main branch
 >>>>>>> b440f3bafb619d4718cb7dda1c735bd210b98a1d
 >>>>>>> a65260449782b2056a83d6dd5a7e1121baa4667e
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 7c5363f4bb9f5ef3443cf6695d03cdcebe0ca41b
 =======
 >>>>>>> refs/remotes/origin/main
+=======
+>>>>>>> 7c5363f4bb9f5ef3443cf6695d03cdcebe0ca41b
+>>>>>>> d4ab890e60002e9b34408d03cc2ea380641652a2
