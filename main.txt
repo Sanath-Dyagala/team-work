@@ -1,5 +1,43 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello this is wahed ali welcome to git hub 
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+hello guys my name is bhargavi
+=======
+hello guys my name is Bhargavi
+>>>>>>> Bhargavi
+=======
+=======
+>>>>>>> refs/remotes/origin/main
+=======
+citiustech
+=======
+<<<<<<< HEAD
+>>>>>>> d4ab890e60002e9b34408d03cc2ea380641652a2
+hi 
+i am sowjanya 
+welcome to citiustech
+=======
+<<<<<<< HEAD
+Hello Good Morning
+Welcome to GIT Session Day3 
+=======
+<<<<<<< HEAD
+hi this is wahed ali welcome to git hub
+>>>>>>> e4addd88cda9710b801d41dbb699dfb97a34af69
 =======
 welcome to citiustech main branch
 >>>>>>> b1a26b08cf9c25b9c2f011d3f21791d43c871ca9
+>>>>>>> b440f3bafb619d4718cb7dda1c735bd210b98a1d
+>>>>>>> a65260449782b2056a83d6dd5a7e1121baa4667e
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 7c5363f4bb9f5ef3443cf6695d03cdcebe0ca41b
+=======
+>>>>>>> refs/remotes/origin/main
+=======
+>>>>>>> 7c5363f4bb9f5ef3443cf6695d03cdcebe0ca41b
+>>>>>>> d4ab890e60002e9b34408d03cc2ea380641652a2
