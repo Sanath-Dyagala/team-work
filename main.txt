@@ -47,3 +47,6 @@ good morning
 =======
 Hello guys iam NR
 >>>>>>> NanjiReddy
+
+hello 
+Good Morning I am Sai Sree.
